@@ -7,6 +7,12 @@ This game is designed using Assembly Language x86. Nasm and DOSBOX are used to r
 <p>The project uses Assembly x86 to create a Snake game. Food randomly appears on the screen and the size of the snake and the score increases when it eats the food. Similarly, hurdles appear randomly on the screen and the snake dies when it hits the hurdle. Score is also displayed on the screen.
 </p>
 
+<h3 align="left">Languages and Tools used in this project:</h3>
+<ul>
+  <li>Assembly x86</li>
+  <li>DOSBOX</li>
+  <li>NASM</li>
+</ul>
 <br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
@@ -25,12 +31,6 @@ This game is designed using Assembly Language x86. Nasm and DOSBOX are used to r
 <a href="https://www.leetcode.com/marwa_shahid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="marwa_shahid" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools used in this project:</h3>
-<ul>
-  <li>Assembly x86</li>
-  <li>DOSBOX</li>
-  <li>NASM</li>
-</ul>
 
 
 
