@@ -16,6 +16,7 @@ This game is designed using Assembly Language x86. Nasm and DOSBOX are used to r
 <br>
 <video width="320" height="240" controls autoplay>
   <source src="video_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag
 </video>
 <br>
 
