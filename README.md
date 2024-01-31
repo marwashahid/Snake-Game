@@ -12,6 +12,7 @@
 </ul>
 <br>
 <h3>Demonstration:</h3>
+<p>Running the project</p>
 <img src="images/run.png">
 <img src="images/keys.png">
 <img src= "images/game.png">
