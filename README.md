@@ -11,6 +11,11 @@
   <li>NASM</li>
 </ul>
 <br>
+<img src="images/run.png">
+<img src="images/keys.png">
+<img src= "images/game.png">
+<img src= "images/score.png">
+<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
 
