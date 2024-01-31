@@ -1,6 +1,3 @@
-# Snake-Game
-This game is designed using Assembly Language x86. Nasm and DOSBOX are used to run and debug the program and notepad++ is used to write code. 
-
 <h1 align="center">Hi 👋, I'm Marwa Shahid</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <h3>What does this project do?</h3>
