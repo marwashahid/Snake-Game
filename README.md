@@ -11,11 +11,6 @@
   <li>NASM</li>
 </ul>
 <br>
-<video width="320" height="240" controls autoplay>
-  <source src="video_demo.mp4" type="video/mp4">
-  Your browser does not support the video tag
-</video>
-<br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
 
