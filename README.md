@@ -13,6 +13,9 @@ This game is designed using Assembly Language x86. Nasm and DOSBOX are used to r
   <li>DOSBOX</li>
   <li>NASM</li>
 </ul>
+<video width="320" height="240" controls>
+  <source src="video_demo.mp4" type="video/mp4">
+</video>
 <br>
 
 - 👨‍💻 All of my projects are available at [https://github.com/marwashahid](https://github.com/marwashahid)
