@@ -4,18 +4,8 @@ This game is designed using Assembly Language x86. Nasm and DOSBOX are used to r
 <h1 align="center">Hi 👋, I'm Marwa Shahid</h1>
 <h3 align="center">A passionate Computer Science Student</h3>
 <h3>What does this project do?</h3>
-<p>The project uses a movies data set that is taken from Kaggle. The dataset contains the information about movies including their company, budget and votes received, dates and many other.
-Python libraries numpy, matplotlib, seaborn and pandas are used to go through the data set and draw conclusions regarding the correlation of various features of movies.
+<p>The project uses Assembly x86 to create a Snake game. Food randomly appears on the screen and the size of the snake and the score increases when it eats the food. Similarly, hurdles appear randomly on the screen and the snake dies when it hits the hurdle. Score is also displayed on the screen.
 </p>
-<h3>Conclusion of the analysis</h3>
-<p>The analysis of the dataset showed that the budget and votes have a high correlation with the gross revenue of the movie</p>
-<br><br>
-<h3>Output Screenshots</h3>
-<img src="images/scatterplot.png">
-<img src="images/regs.png">
-<img src= "images/correlation.png">
-<img src= "images/corr.png">
-
 
 <br>
 
@@ -36,8 +26,11 @@ Python libraries numpy, matplotlib, seaborn and pandas are used to go through th
 </p>
 
 <h3 align="left">Languages and Tools used in this project:</h3>
-<p align="left"><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<ul>
+  <li>Assembly x86</li>
+  <li>DOSBOX</li>
+  <li>NASM</li>
+</ul>
 
 
 
