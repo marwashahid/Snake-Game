@@ -11,6 +11,7 @@
   <li>NASM</li>
 </ul>
 <br>
+<h3>Demonstration</h3>
 <img src="images/run.png">
 <img src="images/keys.png">
 <img src= "images/game.png">
